@@ -1,21 +1,21 @@
 ---
 name: article-illustrations
-description: "Generate hand-drawn article illustrations featuring the Xiaohei character IP. Use this skill when the user wants to create illustrations, diagrams, or visual explanations for articles, blog posts, documentation, or technical content. Trigger on: 'article illustrations', 'illustrate this article', 'generate illustrations', 'create article images', 'shot list', 'illustration plan', 'Xiaohei illustrations', 'hand-drawn diagrams', 'article visuals', 'content illustrations', or any request to design and generate visual explanations for written content."
+description: "Generate hand-drawn article illustrations featuring the Grav character IP. Use this skill when the user wants to create illustrations, diagrams, or visual explanations for articles, blog posts, documentation, or technical content. Trigger on: 'article illustrations', 'illustrate this article', 'generate illustrations', 'create article images', 'shot list', 'illustration plan', 'Grav illustrations', 'hand-drawn diagrams', 'article visuals', 'content illustrations', or any request to design and generate visual explanations for written content."
 ---
 
-# Article Illustrations — Xiaohei Hand-Drawn Style
+# Article Illustrations — Grav Hand-Drawn Style
 
 ## Core Positioning
 
 Design and generate 16:9 landscape illustrations for articles. The goal is NOT to make commercial illustrations, PPT infographics, or cute cartoons. The goal is to take a key judgment, process, structure, state, or metaphor from the article and turn it into a clean, absurd, creative, readable hand-drawn explanation sketch.
 
-The default visual IP is **Xiaohei** (小黑): a solid-black creature with white dot eyes, thin legs, and a blank expression, earnestly performing an absurd but logically sound task. Xiaohei must participate in the core action of every illustration — never just standing as decoration.
+The default visual IP is **Grav**: a small, round, always-slightly-floating figure with dot eyes and a single thin antenna. Grav hovers just above surfaces — never quite touching the ground — like a quiet observer who defies gravity while earnestly doing mundane system work. Grav must participate in the core action of every illustration — never just floating as decoration.
 
 ### What This Skill Produces
 
 - 16:9 landscape article illustrations
 - A shot list of 4–8 illustrations per article
-- For each illustration: theme, core meaning, structure type, Xiaohei's action, and annotation suggestions
+- For each illustration: theme, core meaning, structure type, Grav's action, and annotation suggestions
 - Final images generated via the `generate_image` tool
 
 ### What This Skill Does NOT Produce
@@ -34,7 +34,7 @@ The default visual IP is **Xiaohei** (小黑): a solid-black creature with white
 
 Pure white, minimal, hand-drawn, generous whitespace, restrained, absurd, product-sketch feel, handwritten annotations, structurally clear but NOT a manual.
 
-Like a senior engineer who works on AI, product, design, and developer tools casually sketching an explanation on a whiteboard.
+Like a senior engineer who works on AI, product, and developer tools casually sketching an explanation on a whiteboard.
 
 ### Mandatory Rules
 
@@ -75,55 +75,59 @@ Like a senior engineer who works on AI, product, design, and developer tools cas
 
 ---
 
-## Xiaohei Character IP
+## Grav Character IP
 
 ### Character Definition
 
-Xiaohei (小黑) is the fixed visual IP for all article illustrations.
+Grav is the fixed visual IP for all article illustrations.
 
-Every illustration must include Xiaohei by default. Xiaohei is NOT a mascot, NOT a sticker, NOT a cute decoration — Xiaohei is an absurd worker earnestly participating in the system being illustrated.
+Every illustration must include Grav by default. Grav is NOT a mascot, NOT a sticker, NOT cute decoration — Grav is an absurd, gravity-defying worker earnestly participating in the system being illustrated.
 
 ### Appearance
 
-- Solid black body (like a filled-in blob/bean shape)
-- White circular dot eyes
-- Thin stick legs, occasionally thin stick arms
-- Body shape can be: cylinder, bean, black box, funnel, shadow, hole, or a black component inside a machine
-- Slightly irregular silhouette with hand-drawn feel
-- Expression: blank, deadpan, calm, serious
+- Small, round body — like a smooth pebble or potato shape
+- Dot eyes (two small black dots, slightly asymmetric)
+- One thin antenna on top (slightly bent, with a tiny circle at the tip)
+- No visible mouth — expression comes from posture and eye placement
+- Thin stick legs that dangle below without touching surfaces
+- Occasionally thin stick arms when needed for actions
+- Always hovering slightly off the ground — a tiny gap between Grav and any surface
+- Slightly irregular silhouette with hand-drawn wobble
+- Expression: calm, focused, deadpan — conveyed through tilt and eye position
 
 ### Personality
 
-- Very earnest, but doing something slightly absurd
-- Like a quiet, dedicated system operator
-- Dry humor, never cute or playful
-- Slightly clumsy but not dumb
-- Feels like a real worker in a whiteboard diagram who is actually responsible for something
+- Quietly competent but operating in absurd circumstances
+- Like a systems engineer who happens to float — treats it as completely normal
+- Dry humor through contrast: mundane tasks performed while defying physics
+- Observant and methodical, never frantic
+- The floating isn't the joke — Grav takes the work seriously while the situation around them is strange
 
 ### Common Roles
 
-Xiaohei should perform the core action:
+Grav should perform the core action:
 
-- Hauling materials between stages
-- Pulling wires to connect information sources
-- Stuck at a breakpoint
-- Operating a "judgment lever" inside a machine
-- Becoming the filter funnel itself
-- Slicing open a "raw material fish"
-- Stamping approval on handoff scripts
-- Weighing options on a bizarre scale
-- Guarding a gate or checkpoint
-- Pushing content through a press
-- Bridging two disconnected systems
-- Recording observations on a clipboard
+- Floating between system stages, carrying materials
+- Hovering over a funnel, dropping inputs in
+- Dangling from a lever, using body weight (despite floating) to pull it
+- Drifting through a pipeline, inspecting each stage
+- Suspended inside a machine as a working component
+- Balancing on a scale that shouldn't work
+- Threading connections between disconnected modules
+- Guarding a gate or checkpoint while hovering at eye level
+- Operating controls from slightly above — feet never touching the console
+- Acting as the signal in a flow — being passed through the system itself
+- Sitting on nothing (hovering) while taking notes on a clipboard
+- Bridging two disconnected systems by stretching between them
 
 ### Character Prohibitions
 
-- ❌ Xiaohei smiling, winking, or showing exaggerated emotion
-- ❌ Xiaohei as a cute sticker or emoji
-- ❌ Xiaohei standing idle as decoration while something happens elsewhere
-- ❌ Xiaohei wearing costumes or accessories (keep it minimal)
-- ❌ Multiple Xiaohei characters unless the concept requires distinct roles
+- ❌ Grav touching the ground or standing on surfaces (always a gap)
+- ❌ Grav smiling, winking, or showing exaggerated emotion
+- ❌ Grav as a cute sticker or emoji
+- ❌ Grav floating idle as decoration while something happens elsewhere
+- ❌ Grav wearing costumes or accessories (keep it minimal — just antenna)
+- ❌ Multiple Grav characters unless the concept requires distinct roles
 
 ---
 
@@ -135,13 +139,13 @@ Choose ONE structure type per illustration. Don't mix too many.
 
 **Best for**: Input → Processing → Output, content production, AI workflows, automation chains.
 
-**How to draw**: Input on left, Xiaohei or a strange machine processing in the middle, output on right. Orange arrows show the main flow direction.
+**How to draw**: Input on left, Grav or a strange machine processing in the middle, output on right. Orange arrows show the main flow direction.
 
 ### 2. System Closeup
 
 **Best for**: Information sources, filters, databases, renderers, agent system internals.
 
-**How to draw**: Only 3–5 core modules. Xiaohei participates in one key action within the system.
+**How to draw**: Only 3–5 core modules. Grav participates in one key action within the system.
 
 ### 3. Before / After Contrast
 
@@ -165,13 +169,13 @@ Choose ONE structure type per illustration. Don't mix too many.
 
 **Best for**: Methodology frameworks, system layers, capability stacks, content system tiers.
 
-**How to draw**: Stacked boxes (NOT a formal pyramid). Xiaohei on the side building, hauling, or assembling.
+**How to draw**: Stacked boxes (NOT a formal pyramid). Grav on the side building, hauling, or assembling.
 
 ### 7. Map / Route
 
 **Best for**: Idea to launch, user journey, content handoff path, learning roadmap.
 
-**How to draw**: One winding path, sparse nodes, Xiaohei pulling the thread or walking along it.
+**How to draw**: One winding path, sparse nodes, Grav floating along the thread or pulling it taut.
 
 ### 8. Mini Comic Panels
 
@@ -183,30 +187,30 @@ Choose ONE structure type per illustration. Don't mix too many.
 
 ## Original Metaphor Generation
 
-Every illustration must invent a NEW metaphor from the current article. Never copy old compositions.
+Every illustration must invent a NEW metaphor from the current article. Never reuse compositions across articles.
 
 ### Three Steps
 
-1. **Translate the abstract concept into a physical action**: Stuck, leaking, getting heavier, sorting, settling, fermenting, opening a door, folding, unpacking, flowing back.
+1. **Translate the abstract concept into a physical action**: Stuck, leaking, getting heavier, sorting, settling, fermenting, opening a door, folding, unpacking, flowing back, floating away, losing gravity, tethering.
 
-2. **Translate the system structure into a low-tech object**: Broken machine, cardboard box, drawer, water pipe, mailbox, weird gauge, scale, well, ladder, strange workstation.
+2. **Translate the system structure into a low-tech object**: Broken machine, cardboard box, drawer, water pipe, mailbox, weird gauge, scale, well, ladder, strange workstation, pulley system, balloon, anchor, diving bell.
 
-3. **Make Xiaohei perform the action**: Not standing nearby — Xiaohei is stuck inside the machine, pulling the wrong wire, guarding the gate, hauling materials, repairing, weighing, holding the ladder, recording, stuffing things into a strange device.
+3. **Make Grav perform the action**: Not floating nearby — Grav is suspended inside the machine, dangling from the lever, hovering through the pipeline, acting as the counterweight, drifting between stages carrying things, threading the wire while floating above.
 
 ### Object Pool (pick 1–2 max, don't overload)
 
-Cardboard box, drawer, old machine, funnel, scale, mailbox, door, well, ladder, water pipe, yarn ball, floodgate, turntable, black box, hole puncher, pasta press, clothesline, strange workstation, conveyor belt, stamp pad, telescope, lever, bucket, sieve.
+Cardboard box, drawer, old machine, funnel, scale, mailbox, door, well, ladder, water pipe, yarn ball, floodgate, turntable, black box, hole puncher, pasta press, clothesline, strange workstation, conveyor belt, stamp pad, telescope, lever, bucket, sieve, pulley, balloon, anchor, tether line.
 
-### Xiaohei Action Pool
+### Grav Action Pool
 
-Pull, carry, stuff, fish out, press, weigh, sew, cut, twist, guard, push, catch, disassemble, label, recycle, balance, crank, thread, stamp, pour, stack.
+Float through, carry, drop in, dangle from, drift between, thread, hover over, inspect, balance, tether, anchor, pull, push (while floating), catch, release, weigh, crank, pour, bridge, stretch across, suspend from.
 
-### Anti-Copying Rules
+### Anti-Repetition Rules
 
-Do NOT default to or copy example compositions. When given a similar theme, invent a new metaphor. For example:
-- "Handoff path" doesn't have to be a route — Xiaohei could be tying content tails to door handles
-- "One input, many outputs" doesn't have to be cutting a fish — Xiaohei could be pressing one paper ball into several shapes
-- "Validation pipeline" doesn't have to be a conveyor — Xiaohei could be running a strange weighing station
+Never reuse the same metaphor across illustrations, even for similar themes. When given a similar concept, invent a new physical analogy:
+- "Handoff path" could be Grav stretching a tether between two doors, or floating a paper airplane through checkpoints
+- "One input, many outputs" could be Grav hovering over a prism that splits a beam, or dropping one ball into a Rube Goldberg splitter
+- "Validation pipeline" could be Grav drifting through a series of increasingly narrow hoops, or operating a strange weighing station from above
 
 ---
 
@@ -223,7 +227,7 @@ Read the user's article content (text, links, markdown files, or screenshots). E
 
 **Don't distribute illustrations evenly.** Prioritize "cognitive anchor points":
 - Core judgments or key decisions
-- Two-breakpoint moments
+- Critical breakpoints or failure modes
 - Input/output closed loops
 - Branching or sorting logic
 - Before/after contrasts
@@ -242,7 +246,7 @@ If the user asks to "analyze" or "plan" illustrations, output a shot list first.
 | **Theme** | What this illustration is about |
 | **Core Meaning** | The one idea this image conveys |
 | **Structure Type** | Which composition pattern (from the 8 above) |
-| **Xiaohei's Action** | What Xiaohei is doing in the image |
+| **Grav's Action** | What Grav is doing in the image |
 | **Suggested Elements** | 3–5 objects or components in the scene |
 | **Annotation Labels** | 3–5 short English labels for the handwritten annotations |
 
@@ -272,7 +276,7 @@ Visual DNA:
 Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten English annotations. Clean absurd product-sketch feeling. No gradients, no shadows, no paper texture, no complex background, no commercial vector style, no PPT infographic look, no cute mascot poster, no children's illustration, no realistic UI.
 
 Recurring IP character required:
-Xiaohei, a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. Xiaohei must perform the core conceptual action, not decorate the scene. Make Xiaohei serious, deadpan, and slightly bizarre, not cute.
+Grav, a small round floating figure with dot eyes, a single thin bent antenna with a tiny circle tip, thin dangling stick legs that never touch surfaces, and a slightly uneven hand-drawn body shape. Grav always hovers slightly above any surface — there is always a visible gap between Grav and the ground. Grav must perform the core conceptual action, not decorate the scene. Make Grav calm, deadpan, focused, and slightly bizarre — not cute.
 
 Theme:
 {theme of this illustration}
@@ -284,7 +288,7 @@ Core idea:
 {the one thing this image must convey}
 
 Composition:
-{specific scene: where is Xiaohei, what is Xiaohei doing, what are the main objects, how does information flow}
+{specific scene: where is Grav, what is Grav doing, what are the main objects, how does information flow}
 
 Suggested elements:
 {element 1} / {element 2} / {element 3} / {element 4}
@@ -293,7 +297,7 @@ English handwritten labels:
 {label 1} / {label 2} / {label 3} / {label 4} / {optional label 5}
 
 Color use:
-Black for main line art and Xiaohei. Orange for main flow/path/arrows. Red only for key warnings/problems/results. Blue only for secondary notes or feedback/system state.
+Black for main line art and Grav. Orange for main flow/path/arrows. Red only for key warnings/problems/results. Blue only for secondary notes or feedback/system state.
 
 Constraints:
 One image explains only one core structure. Keep the main subject around 40%-60% of the canvas. Preserve at least 35% white space. No title bar at the top. No border or frame. Maximum 5-8 annotation labels. Each label is 2-5 words. The style should feel like a senior engineer's casual whiteboard sketch — absurd, clean, memorable.
@@ -307,9 +311,10 @@ One image explains only one core structure. Keep the main subject around 40%-60%
 
 - [ ] Image is 16:9 landscape format
 - [ ] Background is clean white
-- [ ] Xiaohei is present
-- [ ] Xiaohei performs the core action (not just decoration)
-- [ ] Composition is an original metaphor for the current article (not copied)
+- [ ] Grav is present
+- [ ] Grav is floating (gap between body and any surface)
+- [ ] Grav performs the core action (not just decoration)
+- [ ] Composition is an original metaphor for the current article
 - [ ] Scene is absurd, creative, and memorable
 - [ ] Clean and uncluttered — main subject doesn't exceed ~60% of canvas
 - [ ] One core structure per image
@@ -321,7 +326,8 @@ One image explains only one core structure. Keep the main subject around 40%-60%
 ### Failure Signals — Regenerate If:
 
 - Top-left has a title like "Common Pitfalls / Workflow / System Architecture / Roadmap"
-- Xiaohei looks like a mascot, emoji, or cute cartoon
+- Grav looks like a mascot, emoji, or cute cartoon
+- Grav is standing on the ground (must always float)
 - Layout resembles a PPT slide, course material, or formal flowchart
 - Too many elements, arrows, or nodes (more than ~8)
 - Text blocks instead of short labels
@@ -333,9 +339,10 @@ One image explains only one core structure. Keep the main subject around 40%-60%
 
 ### Iteration Methods
 
-- **Too generic**: Make Xiaohei the action protagonist, not a bystander. Add one absurd low-tech object.
+- **Too generic**: Make Grav the action protagonist, not a bystander. Add one absurd low-tech object.
 - **Too cluttered**: Remove 30% of elements. Increase whitespace. Cut labels to 3–4.
-- **Xiaohei is decorative**: Redesign so Xiaohei IS the mechanism (e.g., Xiaohei becomes the funnel, Xiaohei is stuck inside the machine, Xiaohei pulls the lever).
+- **Grav is decorative**: Redesign so Grav IS the mechanism (e.g., Grav becomes the counterweight, Grav is suspended inside the machine, Grav dangles from the lever).
+- **Grav is grounded**: Redraw with a visible gap — Grav always hovers.
 - **Too similar to previous**: Replace the metaphor object entirely. Same concept, different physical analogy.
 - **Title bar present**: Remove the title and any decorative framing. The illustration should stand alone without headers.
 
@@ -356,7 +363,7 @@ deserve illustrations and what each image should convey.
 ### Generate illustrations for an article
 
 ```
-Generate 4 Xiaohei-style illustrations for this article.
+Generate 4 Grav-style illustrations for this article.
 Requirements: 16:9 landscape, pure white background, black hand-drawn
 line art, sparse red/orange/blue English annotations.
 Each image should capture one core structure. No PPT infographics, no cute cartoons.
@@ -371,15 +378,15 @@ Generate one 16:9 illustration for this concept:
 
 "Trust isn't declared — it's built one piece of evidence at a time."
 
-The scene should be absurd but clean. Xiaohei must perform the core action.
+The scene should be absurd but clean. Grav must perform the core action.
 Maximum 5 annotation labels, keep them short.
 ```
 
 ### Regenerate with more character involvement
 
 ```
-This illustration is on the right track, but Xiaohei feels like decoration.
-Keep the core meaning but regenerate: make Xiaohei the one actually
+This illustration is on the right track, but Grav feels like decoration.
+Keep the core meaning but regenerate: make Grav the one actually
 driving the structure. Make the scene weirder but still clean and minimal.
 ```
 
