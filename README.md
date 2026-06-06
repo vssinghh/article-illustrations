@@ -71,45 +71,33 @@ This skill uses a distinctive hand-drawn style:
 
 ## Examples
 
-These illustrations were generated for the article [Engineering Teams Are Struggling to Verify AI-Generated Code at Scale](https://hackernoon.com/engineering-teams-are-struggling-to-verify-ai-generated-code-at-scale) using this skill. Each image captures one cognitive anchor point from the article.
+These illustrations demonstrate the Grav style across different universal concepts. Each one was generated using this skill.
 
-### The Velocity Trap
+### Information Overload
 
-AI generates code faster than teams can validate it. Grav hovers over a validation funnel with a clipboard while code blocks overflow.
+Too many inputs, one brain. Grav holds a tiny bucket as pipes pour envelopes, bells, and chat bubbles from every direction.
 
-![The Velocity Trap](examples/00-velocity-trap.png)
+![Information Overload](examples/01-information-overload.png)
 
-### The Verification Gap
+### Building Trust
 
-96% of developers distrust AI code, but only 48% verify it. Grav goes from suspicious to eyes-closed committing anyway.
+Trust isn't declared — it's built one brick at a time across a chasm. Grav floats over the gap, placing bricks labeled "proof" and "track record."
 
-![The Verification Gap](examples/01-verification-gap.png)
+![Building Trust](examples/02-building-trust.png)
 
-### Comprehension Debt
+### From Many Ideas to One Decision
 
-When AI writes code, you inherit understanding you never built. Grav peers into sealed black boxes with a flashlight — what's inside?
+A cloud of lightbulbs funnels into a press machine. Grav pulls the lever. One diamond comes out; crumpled rejects fall below.
 
-![Comprehension Debt](examples/02-comprehension-debt.png)
+![Idea to Decision](examples/03-idea-to-decision.png)
 
-### The Tautology Trap
+### The Feedback Loop
 
-Same AI writes code AND tests — a circular loop that validates its own flaws. Grav is stuck in the middle, dizzy, while "100% coverage" badges pile up.
+Build → Measure → Learn → Repeat. Grav carries an insight nugget from the "learn" stage back to "build." Cycle 4.
 
-![The Tautology Trap](examples/03-tautology-trap.png)
+![Feedback Loop](examples/04-feedback-loop.png)
 
-### Vibe Coding Hits the Wall
-
-Vibe coding works for prototypes (0→1) but collapses at scale (1→100). Neat little house vs. crumbling skyscraper with edge-case bugs.
-
-![Vibe Coding Wall](examples/04-vibe-coding-wall.png)
-
-### From Code Typist to Harness Engineer
-
-The developer role has shifted. Frantic typing (crossed out) → calm orchestration of a verification harness.
-
-![Harness Engineer](examples/05-harness-engineer.png)
-
-> These images are style calibration examples, not composition templates. When using the skill, it generates new original metaphors for each article.
+> These are style examples, not composition templates. The skill generates original metaphors for each article.
 
 ---
 
