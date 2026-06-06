@@ -1,8 +1,6 @@
 # Article Illustrations
 
-> Turn the key judgments, processes, structures, and metaphors in your articles into memorable 16:9 hand-drawn illustrations.
->
-> Grav IP | Pure white hand-drawn | Sparse red/orange/blue annotations | Antigravity Skill
+> An Antigravity skill that turns the key judgments, processes, and metaphors in your articles into memorable 16:9 hand-drawn illustrations — featuring Grav, a floating character who earnestly participates in absurd system diagrams.
 
 ---
 
