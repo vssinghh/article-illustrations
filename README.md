@@ -75,7 +75,7 @@ This skill uses a distinctive hand-drawn style:
 Clone the repo:
 
 ```bash
-git clone https://github.com/anthropics/article-illustrations.git
+git clone https://github.com/vipin-si/article-illustrations.git
 cd article-illustrations
 ```
 
