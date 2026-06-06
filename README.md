@@ -69,6 +69,50 @@ This skill uses a distinctive hand-drawn style:
 
 ---
 
+## Examples
+
+These illustrations were generated for the article [Engineering Teams Are Struggling to Verify AI-Generated Code at Scale](https://hackernoon.com/engineering-teams-are-struggling-to-verify-ai-generated-code-at-scale) using this skill. Each image captures one cognitive anchor point from the article.
+
+### The Velocity Trap
+
+AI generates code faster than teams can validate it. Grav hovers over a validation funnel with a clipboard while code blocks overflow.
+
+![The Velocity Trap](examples/00-velocity-trap.png)
+
+### The Verification Gap
+
+96% of developers distrust AI code, but only 48% verify it. Grav goes from suspicious to eyes-closed committing anyway.
+
+![The Verification Gap](examples/01-verification-gap.png)
+
+### Comprehension Debt
+
+When AI writes code, you inherit understanding you never built. Grav peers into sealed black boxes with a flashlight — what's inside?
+
+![Comprehension Debt](examples/02-comprehension-debt.png)
+
+### The Tautology Trap
+
+Same AI writes code AND tests — a circular loop that validates its own flaws. Grav is stuck in the middle, dizzy, while "100% coverage" badges pile up.
+
+![The Tautology Trap](examples/03-tautology-trap.png)
+
+### Vibe Coding Hits the Wall
+
+Vibe coding works for prototypes (0→1) but collapses at scale (1→100). Neat little house vs. crumbling skyscraper with edge-case bugs.
+
+![Vibe Coding Wall](examples/04-vibe-coding-wall.png)
+
+### From Code Typist to Harness Engineer
+
+The developer role has shifted. Frantic typing (crossed out) → calm orchestration of a verification harness.
+
+![Harness Engineer](examples/05-harness-engineer.png)
+
+> These images are style calibration examples, not composition templates. When using the skill, it generates new original metaphors for each article.
+
+---
+
 ## Installation
 
 Clone the repo:
