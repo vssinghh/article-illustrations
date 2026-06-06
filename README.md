@@ -148,6 +148,12 @@ Plan 6-8 images, output the shot list first, don't generate yet.
 
 ---
 
+## Related Work
+
+This skill was inspired by [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations), a Codex skill for generating Chinese article illustrations with a detailed multi-file reference system (style DNA, character IP sheets, composition patterns, prompt templates, and QA checklists). We simplified that approach into a single self-contained skill file, adapted it for English articles, introduced an original character IP (Grav), and made it work natively with the Antigravity platform.
+
+---
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
