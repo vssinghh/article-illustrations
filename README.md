@@ -106,7 +106,7 @@ Build → Measure → Learn → Repeat. Grav carries an insight nugget from the 
 Clone the repo:
 
 ```bash
-git clone https://github.com/vipin-si/article-illustrations.git
+git clone https://github.com/vssinghh/article-illustrations.git
 cd article-illustrations
 ```
 
